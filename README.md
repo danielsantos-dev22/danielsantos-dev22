@@ -1,5 +1,9 @@
 # 👨‍💻 Daniel | Desenvolvedor em formação
 
+<p align="center">
+  <img src="https://github.com/danielsantos-dev22/img-danielsantos-de22/blob/main/ChatGPT%20Image%2016_05_2025%2C%2021_40_14.png" width="150" />
+</p>
+
 Sou um desenvolvedor em início de carreira, focado em construir uma base sólida em desenvolvimento web.  
 Atualmente, estou estudando e desenvolvendo projetos com as seguintes tecnologias:
 
@@ -30,5 +34,3 @@ Atualmente, estou estudando e desenvolvendo projetos com as seguintes tecnologia
 ![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielsantos-dev22&show_icons=true&theme=radical)
 
 ---
-
-<img src="https://github.com/danielsantos-dev22/img-daniel-dev22/blob/main/ChatGPT%20Image%2016_05_2025%2C%2021_40_14.png" width="300" />
