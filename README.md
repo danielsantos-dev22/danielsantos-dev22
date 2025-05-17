@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👨‍💻 Daniel | Desenvolvedor em formação
 
-<!--
-**danielsantos-dev22/danielsantos-dev22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor em início de carreira, focado em construir uma base sólida em desenvolvimento web.  
+Atualmente, estou estudando e desenvolvendo projetos com as seguintes tecnologias:
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias que estou aprendendo:
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- TypeScript  
+- Node.js  
+- React  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Sobre mim:
+- Estou constantemente buscando aprender novas ferramentas e boas práticas de desenvolvimento.  
+- Gosto de transformar ideias em projetos reais como forma de evoluir.  
+- Busco oportunidades para aplicar o que aprendo na prática, contribuindo com projetos e equipes.  
+
+
+
+### 📫 Como me encontrar:
+- Email: [danisantos1854@gmail.com](mailto:danisantos1854@gmail.com)  
+- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
+- Portfólio: [seuportfolio.com](https://seuportfolio.com)  
+
+---
+
+---
+
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielsantos-dev22&show_icons=true&theme=radical)
+
+---
+
+
