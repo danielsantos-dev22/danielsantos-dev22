@@ -31,4 +31,6 @@ Atualmente, estou estudando e desenvolvendo projetos com as seguintes tecnologia
 
 ---
 
+![Avatar do Daniel](https://github.com/danielsantos-dev22/img-daniel-dev22/blob/main/ChatGPT%20Image%2016_05_2025%2C%2021_40_14.png)
+
 
